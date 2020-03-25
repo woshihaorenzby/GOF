@@ -1,7 +1,7 @@
 package com.singleton.senum;
 
 /**
- * 双重验证模式
+ * 枚举法
  */
 public class Main {
 

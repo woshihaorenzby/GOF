@@ -1,7 +1,7 @@
 package com.singleton.staticClass;
 
 /**
- * 双重验证模式
+ * 静态内部类方法
  */
 public class Main {
 
